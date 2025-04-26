@@ -49,5 +49,5 @@ Timeline: 1 Month (4 Sprints)
 • Responsive design
 
 • Dark mode toggle (Optional)
-# Tech Stack
-Frontend: HTML, CSS, JavaScript
+# Deployment
+Include full system testing, mobile responsiveness, mock payment simulation, and admin management setup.
