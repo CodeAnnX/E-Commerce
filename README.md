@@ -5,12 +5,7 @@ This E-Commerce is a simple and responsive online store where can browse product
 Approach: Agile Methodology
 
 Timeline: 1 Month (4 Sprints)
-| Sprint   | Focus                         | Goal                                                                 |
-|:------:|-------------------------------|---------------------------------------------------------------------|
-| Sprint 1 | Core Features & Product Pages | Set up user authentication, product listing, product detail, add to cart, cart preview, and responsive design. |
-| Sprint 2 | Checkout & User Dashboard     | Build checkout form, order summary, order history, product categories and filters, and wishlist/favorites. |
-| Sprint 3 | Management & Search           | Develop search functionality, admin panel (CRUD), inventory tracking, and discount codes/promotions. |
-| Sprint 4 | Enhancements & Final Features | Implement product reviews, ratings per product, payment simulation, and optional dark mode. |
+# How to use Software troubleshoot                  
 # Features 
 • User authentication (sign up, login, logout)
 
@@ -49,5 +44,7 @@ Timeline: 1 Month (4 Sprints)
 • Responsive design
 
 • Dark mode toggle (Optional)
-# Deployment
-Include full system testing, mobile responsiveness, mock payment simulation, and admin management setup.
+# Tech Stack
+Frontend: 
+
+Backend:
