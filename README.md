@@ -1,7 +1,8 @@
 # E-Commerce
 # Overview
 This E-Commerce is a simple and responsive online store where can browse products, add items to their cart, and place orders. It includes features for users login, product search, shopping cart, order tracking, admin product management.
-                  
+# How to use Software 
+
 # Features 
 • User authentication (sign up, login, logout)
 
