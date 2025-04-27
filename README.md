@@ -1,11 +1,7 @@
 # E-Commerce
 # Overview
 This E-Commerce is a simple and responsive online store where can browse products, add items to their cart, and place orders. It includes features for users login, product search, shopping cart, order tracking, admin product management.
-# Development Methodology
-Approach: Agile Methodology
-
-Timeline: 1 Month (4 Sprints)
-# How to use Software troubleshoot                  
+                  
 # Features 
 • User authentication (sign up, login, logout)
 
@@ -45,6 +41,8 @@ Timeline: 1 Month (4 Sprints)
 
 • Dark mode toggle (Optional)
 # Tech Stack
-Frontend: 
+Frontend: Vanilla.js, jQuery 
 
-Backend:
+Backend: JS Framework, Express.js
+
+DB: MySQL 
