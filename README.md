@@ -2,31 +2,40 @@
 # Overview
 This E-Commerce is a simple and responsive online store where can browse products, add items to their cart, and place orders. It includes features for users login, product search, shopping cart, order tracking, admin product management.
 # How to Use the Software
-Register an Account
+1. Register an Account
+
 Create a new account with your email and password to start shopping.
 
-Login
+2. Login
+
 Sign in to access your account and manage your orders.
 
-Browse Products
+3. Browse Products
+
 Explore different categories and view product details.
 
-Add to Cart
+4. Add to Cart
+
 Select products you like and add them to your shopping cart.
 
-Manage Your Cart
+5. Manage Your Cart
+
 Review, update, or remove items from your cart before checkout.
 
-Checkout
+6. Checkout
+
 Fill in your shipping information and place your order.
 
-Track Your Orders
+8. Track Your Orders
+
 View your order history and track the status of your purchases.
 
-Manage Wishlist
+9. Manage Wishlist
+
 Add your favorite products to your wishlist for future purchases.
 
-Leave Reviews
+10. Leave Reviews
+
 Rate and review products you have purchased.
 
 
